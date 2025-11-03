@@ -18,7 +18,7 @@ namespace CalculatorApp
         }
 
         static void Main(string[] args)
-        {
+        { 
 
         }
     }
